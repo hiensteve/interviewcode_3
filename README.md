@@ -1,4 +1,6 @@
-# Coding Interview University
+This is the learning source originally created by a software engineer at Amazon, which I find interesting. The sources are updated days by days by other tech enthusiasts like myself.
+%%%%%%%% It begin here!
+# Coding Interview 
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
