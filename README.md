@@ -1,4 +1,4 @@
-This is the learning source originally created by a software engineer at Amazon, which I find interesting. The sources are updated days by days by other tech enthusiasts like myself.
+This is the learning source, , which I find interesting, originally created by a software engineer at Amazon. The sources are updated days by days by other tech enthusiasts like myself.
 %%%%%%%% It begin here!
 # Coding Interview 
 
