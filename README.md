@@ -1,5 +1,5 @@
 This is the learning source, , which I find interesting, originally created by a software engineer at Amazon. The sources are updated days by days by other tech enthusiasts like myself.
-It begin here!
+It begins here!
 # Coding Interview 
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
